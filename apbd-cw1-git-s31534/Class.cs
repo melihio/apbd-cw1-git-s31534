@@ -10,4 +10,14 @@ public class Class
         Teacher = teacher;
         Students = students;
     }
+
+    public int GetAverage()
+    {
+        int sum = 0;
+        foreach (var student in Students)
+        {
+            sum += student.Grade;
+        }
+        return sum / Students.Count;
+    }
 }
