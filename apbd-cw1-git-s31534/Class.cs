@@ -25,4 +25,9 @@ public class Class
     {
         return  Students.Max(student => student.Grade);
     }
+
+    public int GetMin()
+    {
+        return 0;
+    }
 }
