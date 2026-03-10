@@ -20,4 +20,9 @@ public class Class
         }
         return sum / Students.Count;
     }
+
+    public int GetMax()
+    {
+        return  Students.Max(student => student.Grade);
+    }
 }
