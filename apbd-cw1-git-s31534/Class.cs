@@ -13,12 +13,7 @@ public class Class
 
     public int GetAverage()
     {
-        int sum = 0;
-        foreach (var student in Students)
-        {
-            sum += student.Grade;
-        }
-        return sum / Students.Count;
+        return Students.Sum(s => s.Grade) / Students.Count;
     }
 
     public int GetMax()
