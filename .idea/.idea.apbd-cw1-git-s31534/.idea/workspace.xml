@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="367c70f7-a939-4937-b78d-22a0eb2b9e19" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.apbd-cw1-git-s31534/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.apbd-cw1-git-s31534/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apbd-cw1-git-s31534/Student.cs" beforeDir="false" afterPath="$PROJECT_DIR$/apbd-cw1-git-s31534/Student.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apbd-cw1-git-s31534/Class.cs" beforeDir="false" afterPath="$PROJECT_DIR$/apbd-cw1-git-s31534/Class.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +15,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/apbd-cw1-git-s31534/Student.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="3AkV5tVnIjdJe9fZQF05WcaJdON" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,7 +29,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "feature-min",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>

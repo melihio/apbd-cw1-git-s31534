@@ -28,6 +28,6 @@ public class Class
 
     public int GetMin()
     {
-        return 0;
+        return  Students.Min(student => student.Grade);
     }
 }
